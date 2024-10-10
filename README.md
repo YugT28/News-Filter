@@ -27,7 +27,7 @@ python -m venv .venv
 ```shell
 pip install -r requirements.txt
 ```
-4. Create .env file and add
+4. Create .env file and add connection for SQLAlchemy
 ```text
 MYSQL_CONNECTION_STRING=<--mysql connection string for MYSQL-->
 ```
