@@ -49,5 +49,7 @@ python start_prediction.py
 ```
 ### Check Output.csv for Prediction.
 
-
+# Note
+***
+Need lots of improvement interms of ETL Data Ingestion , Model Building, Setting Up Training And Prediciton Schedule and ALL.
 
