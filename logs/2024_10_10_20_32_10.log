@@ -1,0 +1,8 @@
+[ 2024-10-10 20:32:11,980 ] 4 root - INFO - Initiate Model Training Pipeline
+[ 2024-10-10 20:32:12,011 ] 23 root - INFO - data ingestion is started
+[ 2024-10-10 20:32:12,028 ] 26 root - INFO - data ingestion ended
+[ 2024-10-10 20:32:12,029 ] 29 root - INFO - data prepration is started
+[ 2024-10-10 20:32:12,060 ] 32 root - INFO - data prepration ended
+[ 2024-10-10 20:32:12,060 ] 35 root - INFO - model training started
+[ 2024-10-10 20:32:12,071 ] 39 root - INFO - Model training ended
+[ 2024-10-10 20:32:12,076 ] 8 root - INFO - Close Model Training Pipeline

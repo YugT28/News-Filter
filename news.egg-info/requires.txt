@@ -1,0 +1,6 @@
+certifi==2024.8.30
+feedparser
+mysqlclient
+SQLAlchemy
+setuptools
+pandas==2.2.3

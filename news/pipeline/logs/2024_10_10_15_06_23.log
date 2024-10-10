@@ -1,0 +1,11 @@
+[ 2024-10-10 15:06:24,854 ] 23 root - INFO - data ingestion is started
+[ 2024-10-10 15:06:24,883 ] 26 root - INFO - data ingestion ended
+[ 2024-10-10 15:06:24,883 ] 29 root - INFO - data prepration is started
+[ 2024-10-10 15:06:24,922 ] 32 root - INFO - data prepration ended
+[ 2024-10-10 15:06:24,922 ] 35 root - INFO - model training started
+[ 2024-10-10 15:06:24,938 ] 39 root - INFO - Model training ended
+[ 2024-10-10 15:06:24,939 ] 28 root - INFO - data ingestion strated
+[ 2024-10-10 15:06:24,949 ] 31 root - INFO - data ingestion ended
+[ 2024-10-10 15:06:24,949 ] 34 root - INFO - data prepration is started
+[ 2024-10-10 15:06:24,954 ] 37 root - INFO - data prepration ended
+[ 2024-10-10 15:06:24,954 ] 40 root - INFO - prediction started

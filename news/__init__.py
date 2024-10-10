@@ -1,0 +1,1 @@
+from news.logger import logger

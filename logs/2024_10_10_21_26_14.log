@@ -1,0 +1,6 @@
+[ 2024-10-10 21:26:14,615 ] 25 root - INFO - Data for Model Building Downloading
+[ 2024-10-10 21:26:15,189 ] 28 root - INFO - natural-disaster data downloaded
+[ 2024-10-10 21:26:43,564 ] 37 root - INFO - Positive / Uplifting data downloaded
+[ 2024-10-10 21:26:47,594 ] 52 root - INFO - Terrorism /  Protest / Political Unrest / Riot data downloaded
+[ 2024-10-10 21:26:48,209 ] 67 root - INFO - other data downloaded
+[ 2024-10-10 21:26:48,210 ] 72 root - INFO - Start Adding to MYSQL as Model_Training Table 

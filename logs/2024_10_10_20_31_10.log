@@ -1,0 +1,14 @@
+[ 2024-10-10 20:31:11,817 ] 5 root - INFO - Initiate Prediction Pipeline
+[ 2024-10-10 20:31:11,817 ] 23 root - INFO - data ingestion is started
+[ 2024-10-10 20:31:11,836 ] 26 root - INFO - data ingestion ended
+[ 2024-10-10 20:31:11,836 ] 29 root - INFO - data prepration is started
+[ 2024-10-10 20:31:11,871 ] 32 root - INFO - data prepration ended
+[ 2024-10-10 20:31:11,871 ] 35 root - INFO - model training started
+[ 2024-10-10 20:31:11,884 ] 39 root - INFO - Model training ended
+[ 2024-10-10 20:31:11,885 ] 32 root - INFO - data ingestion strated
+[ 2024-10-10 20:31:11,897 ] 35 root - INFO - data ingestion ended
+[ 2024-10-10 20:31:11,898 ] 38 root - INFO - data prepration is started
+[ 2024-10-10 20:31:11,905 ] 41 root - INFO - data prepration ended
+[ 2024-10-10 20:31:11,905 ] 44 root - INFO - prediction started
+[ 2024-10-10 20:31:11,905 ] 47 root - INFO - prediction ended
+[ 2024-10-10 20:31:11,907 ] 9 root - INFO - Close Prediction Pipeline
